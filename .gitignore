@@ -1,0 +1,7 @@
+/fask_study/frontend/node_modules
+/fask_study/frontend/npm-cache
+/my_fastapi_project/frontend/node_modules
+/my_fastapi_project/frontend/npm-cache
+/my_fastapi_project/venv
+/npm-cache
+/faiss_index
